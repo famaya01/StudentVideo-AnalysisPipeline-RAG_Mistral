@@ -1,0 +1,54 @@
+{
+    "rubric1":{
+        "prompt1": "Basierend auf dem vorliegenden Text, welche Praktik des ITIL v4 wurde erklärt?",
+        "prompt2": "Basierend auf dem vorliegenden Text, wird die im Text dargestellte Praktik des ITIL v4 klar und verständlich definiert?",
+        "prompt3": "Basierend auf dem vorliegenden Text,welche Elemente fehlen in der im Text beschriebenen Definition des Praktik des ITIL v4. Welche Fehler hat die im Text beschriebene Definition?"
+       
+    },
+
+    "rubric2":{
+        "prompt1": "Basierend auf dem vorliegenden Text, welche Schritte des im Text beschriebenen Prozesses werden genannt? ",
+        "prompt2": "Sind die im vorliegenden Text beschriebenen Schritte klar und verständlich definiert?",
+        "prompt3": "Welche Schritte fehlen in der im Text beschriebenen Prozessbeschreibung?",
+        "prompt4": "Welche Schritte der im Text beschriebenen Prozessbeschreibung sind falsch?"
+    },
+
+    "rubric3": {
+        "prompt1": "Basierend auf dem vorliegenden Text, wurden bis zu fünf Kennzahlen zur Bewertung der Qualität der ITIL v4 Praktik im Video verwendet, ja oder nein?",
+        "prompt2": "Basierend auf dem vorliegenden Text, welche Kennzahlen zur Bewertung der Qualität der ITIL v4 Praktik wurden verwendet und wie sinnvoll und relevant sind diese Kennzahlen für die Bewertung der Praktik?",
+        "prompt3": "Welche wichtigen Kennzahlen fehlen für die Bewertung der im Text beschriebenen ITIL v4 Praktiken?"
+    },
+
+    "rubric4": {
+        "prompt1": "Basierend auf dem vorliegenden Text, wird der Unterschied zwischen der Prozessdefinition aus ITIL v4 und ITIL v3 dargestellt, ja oder nein?",
+        "prompt2": "Basierend auf dem vorliegenden Text, welche Unterschiede zwischen der Prozessdefinition aus ITIL v4 und ITIL v3 werden dargestellt?",
+        "prompt3": "Basierend auf dem vorliegenden Text, sind die herausgearbeiteten Unterschiede zwischen der Prozessdefinition aus ITIL v4 und ITIL v3 korrekt und werden die Unterschiede fachlich richtig dargestellt?"
+    },
+    
+    "rubric5": {
+        "prompt1": "Basierend auf dem vorliegenden Text, wurde ein Beispiel zur Veranschaulichung der Umsetzung des ITIL-Prozesses verwendet, ja oder nein?",
+        "prompt2": "Basierend auf dem vorliegenden Text, wurde ein Beispiel zur Veranschaulichung d er Umsetzung des ITIL-Prozesses im Text verwendet, ja oder nein? Beschreibe das verwendete Projekt",
+        "prompt3": "Falls im vorliegenden Text ein Beispiel zur Veranschaulichung der Umsetzung des ITIL-Prozesses gegeben wird, antworte: Wie konkret und realitätsnah ist dieses Beispiel dargestellt? Trägt dieses Beispiel zum Verständnis der im Text dargestellten Praktik bei?"
+    },
+    
+    "rubric6": {
+        "prompt1": "Nutzt der Text Beispiele, um das Erklärte zu veranschaulichen? Beantworte die Frage mit Ja oder Nein und gebe eine ausführliche Begründung.",
+        "prompt2": "Nutzt der Text Analogien und Modelle, um die neuen Informationen mit bekannten Wissensbereich zu verbinden?Beantworte die Frage mit Ja oder Nein und gebe eine ausführliche Begründung.",
+        "prompt3": "Nutzt der Text Darstellungsformen und Experimente zur Veranschaulichung?Beantworte die Frage mit Ja oder Nein und gebe eine ausführliche Begründung.",
+        "prompt4": "Nutzt der Text eine Sprachebene passend für Studierende der Wirtschaftsinformatik?",
+        "prompt5": "Betont der Text, warum das Erklärte wichtig für Studierende der Wirtschaftsinformatik ist?Beantworte die Frage mit Ja oder Nein und gebe eine ausführliche Begründung.",
+        "prompt6": "Gibt der Text Hinweise auf besonders wichtige Teile?",
+        "prompt7": "Gibt der Text direkte Handlungsaufforderungen an die Lesenden?Beantworte die Frage mit Ja oder Nein und gebe eine ausführliche Begründung.",
+        "prompt8": "Spricht der Text die Lesenden direkt an?Beantworte die Frage mit Ja oder Nein und gebe eine ausführliche Begründung.",
+        "prompt9": " Wird das Fachwissen anhand von Regeln gefolgt von Beispielen vermittelt?",
+        "prompt10": "Fasst der Text die wesentlichen Aspekte zusammen?Beantworte die Frage mit Ja oder Nein und gebe eine ausführliche Begründung.",
+        "prompt11": "Fokussiert der Text auf die Kernidee?Beantworte die Frage mit Ja oder Nein und gebe eine ausführliche Begründung.",
+        "prompt12": "Vermeidet der Text Exkurse? Beantworte die Frage mit Ja oder Nein und gebe eine ausführliche Begründung.",
+        "prompt13": "Nutzt der Text eine einfach verständliche Sprache? Beantworte die Frage mit Ja oder Nein und gebe eine ausführliche Begründung.",
+        "prompt14": "Verbindet der Text Sätze durch Konnektoren, insbesondere „weil“ oder „damit“?",
+        "prompt15": "Verzichtet der Text auf Synonyme?Beantworte die Frage mit Ja oder Nein und gebe eine ausführliche Begründung." 
+
+    }   
+
+    
+}
