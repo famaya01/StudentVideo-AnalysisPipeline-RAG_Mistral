@@ -43,11 +43,8 @@ This repository contains an end-to-end analysis pipeline designed to analyze stu
 ## Usage
 
 1. **Launch Jupyter Notebook**:
-    - Start Jupyter Notebook by running the following command in your terminal:
-    ```sh
-    jupyter notebook
-    ```
-    - Open the notebook file provided in the repository (e.g., `analysis_pipeline.ipynb`).
+
+    - Open `video_analysis_pipeline.ipynb`.
 
 2. **Define the Path of the Video**:
     - In the notebook, locate the cell where the video path is defined.
