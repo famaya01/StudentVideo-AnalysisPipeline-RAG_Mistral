@@ -1,0 +1,10 @@
+ffmpeg-python==0.2.0
+llama_index==0.10.39
+python_docx==0.8.11
+docx2txt
+transformers==4.39.3
+openai-whisper
+llama-index-embeddings-huggingface
+--extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+llama-cpp-python
+llama-index-llms-llama-cpp
